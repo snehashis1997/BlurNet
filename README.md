@@ -8,7 +8,7 @@ Hey, Congratulations for making into this phase of interview. Your previous proj
 
  
 
-DataSet Generation: 
+## DataSet Generation: 
 
 1) Take any publicly available unbalanced Image dataset with atleast 8-10 categories in the 
    target variable  
@@ -19,7 +19,7 @@ DataSet Generation:
 
  
 
-Model Generation: 
+## Model Generation: 
 
 1)  Use any model of your choice to make predictions 
 
