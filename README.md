@@ -3,9 +3,6 @@
 # Design a CNN based deep learning model which classify both blurred and not blurred version of a data set where atleast one class is extremely rare i.e it is a highly unbalanced   dataset and deploy it in a web app
 
 # ML/DL Engineer Intern Coding Assignment: 
-
-Hey, Congratulations for making into this phase of interview. Your previous projects and experience have landed you to this position. So trust me this deserves a pat on your back. Good Job folks. Without further ado let me dive deeper into the problem 
-
  
 
 ## DataSet Generation: 
