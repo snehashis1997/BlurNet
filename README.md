@@ -1,6 +1,6 @@
 # Programing assingment of a internship selection process
 
-# Design a CNN based deep learning model which classify both blurred and not blurred version of a data set where atleast one class is extremely rare i.e it is a highly unbalanced   dataset and deploy it in a web app
+### Design a CNN based deep learning model which classify both blurred and not blurred version of a data set where atleast one class is extremely rare i.e it is a highly unbalanced   dataset and deploy it in a web app
 
 # ML/DL Engineer Intern Coding Assignment: 
  
