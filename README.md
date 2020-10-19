@@ -33,21 +33,7 @@
    * Hystersis thresholding
 
 
-
-
-
 [Laplacian filter]: https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p align="center">
