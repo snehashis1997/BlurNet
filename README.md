@@ -19,6 +19,37 @@
 
 3)  Conduct an analysis on how the model is performing on the non blurry images and blurry images across all categories 
 
+# My approch to solve this problem: 
+
+* Define a function which can detect whether an image is blurry or not. I used [Laplacian filter] to detect whether the image is blurry or not with a threshold value 100. Generally blurry images laplacian filer values are too much low below 10 and not blurry values are way bigger like 1000.
+
+### For Edge detection part 
+- First detect whether the image is blurry or not.
+- If it is not blurry then it use Canny edge filerting directly upon it. 
+- But it is blurry then we can not use canny edge filtering directly because Canny edge filter take the image then first use a gaussian kernel to blur the image. So, first step   is already done for this steps. So I implement other steps as functions which are
+
+   * Non maximum supression
+   * Thresholding
+   * Hystersis thresholding
+
+
+
+
+
+[Laplacian filter]: https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33135767/93631709-b06ffb80-fa09-11ea-8b3c-db101cf51a33.gif"/>
 </p>
