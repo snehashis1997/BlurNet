@@ -32,58 +32,25 @@
    * Thresholding
    * Hystersis thresholding
 
-
-![image](https://user-images.githubusercontent.com/33135767/96608490-10aed180-1317-11eb-8ee4-654a804ba9b4.png)
-![image](https://user-images.githubusercontent.com/33135767/96608531-1c01fd00-1317-11eb-8959-03253e67719a.png)
-![image](https://user-images.githubusercontent.com/33135767/96608605-2fad6380-1317-11eb-98a7-5f71ea1d7ce0.png)
-![image](https://user-images.githubusercontent.com/33135767/96608643-3cca5280-1317-11eb-9943-a35e146730ec.png)
-![image](https://user-images.githubusercontent.com/33135767/96608711-553a6d00-1317-11eb-8ada-31f989543536.png)
-![image](https://user-images.githubusercontent.com/33135767/96608743-5ff50200-1317-11eb-9692-049fe7d0b4b3.png)
-![image](https://user-images.githubusercontent.com/33135767/96608782-6b482d80-1317-11eb-8c51-eaccc8489afc.png)
-![image](https://user-images.githubusercontent.com/33135767/96608831-77cc8600-1317-11eb-8051-6750609248f4.png)
-![image](https://user-images.githubusercontent.com/33135767/96608937-90d53700-1317-11eb-8776-1ae32d74f6ef.png)
+## Not Bluried version of the avobe image and it's detected edges
+![image](https://user-images.githubusercontent.com/33135767/96608711-553a6d00-1317-11eb-8ada-31f989543536.png) ![image](https://user-images.githubusercontent.com/33135767/96608743-5ff50200-1317-11eb-9692-049fe7d0b4b3.png)
 
 
+## Bluried version of the avobe image and it's detected edges
+![image](https://user-images.githubusercontent.com/33135767/96608782-6b482d80-1317-11eb-8c51-eaccc8489afc.png) ![image](https://user-images.githubusercontent.com/33135767/96608831-77cc8600-1317-11eb-8051-6750609248f4.png)
 
 
+## Count plot before and after making classes highly imbalanced
+![image](https://user-images.githubusercontent.com/33135767/96608605-2fad6380-1317-11eb-98a7-5f71ea1d7ce0.png) ![image](https://user-images.githubusercontent.com/33135767/96608643-3cca5280-1317-11eb-9943-a35e146730ec.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Laplacian filter]: https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
-
+## My model architecture
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33135767/96608937-90d53700-1317-11eb-8776-1ae32d74f6ef.png"/>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33135767/93631709-b06ffb80-fa09-11ea-8b3c-db101cf51a33.gif"/>
 </p>
+
+[Laplacian filter]: https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
+
