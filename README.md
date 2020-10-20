@@ -9,7 +9,7 @@
 
 3)  Now use any CV algorithms to reduce the Sharpness in the Image(feel free to use any other methods too) and make them blurry - atleast 30% of images in each category should be     blurred 
 
-4) Using **Flask*** and **Ngrok** Deploy it as a webapp
+4) Using **Flask** and **Ngrok** Deploy it as a webapp
 
 ## Model Generation: 
 
